@@ -68,6 +68,7 @@
   "users": [
   {
       "email": "aldino.rahman@ymail.com",
+      "username": "willylovegatra",
       "password": "123abc",
       "cart": [],
       "role": "user",
@@ -75,6 +76,7 @@
     },
     {
       "email": "aldino.rahman@ymail.com",
+      "username": "ommilovegatra",
       "password": "abc123",
       "cart": [],
       "role": "user",
@@ -82,6 +84,7 @@
     },
     {
       "email": "aldino.rahman@ymail.com",
+      "username" : "alghilovelynete"
       "password": "ABC123",
       "cart": [],
       "role": "user",
